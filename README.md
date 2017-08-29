@@ -26,3 +26,7 @@
 2. Program will ask for directory of where the text files are
 3. Choose `data` directory
 4. Program will look for `cancer-test.txt` and `cancer-training.txt` inside that chosen folder
+
+## About the Data File
+
+The data set was obtained from the UCI machine learning repository <a href='http://mlearn.ics.uci.edu/MLRepository.html>here</a>. See `data/readme.txt` for more information
