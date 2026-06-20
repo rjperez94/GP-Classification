@@ -21,8 +21,6 @@ import javax.swing.JOptionPane;
 import org.jgap.gp.*;
 import org.jgap.gp.impl.*;
 
-import part3.GPMathProblem;
-
 public class BinaryClassification {
 	private static JFileChooser fileChooser = new JFileChooser();
 	private static final String TRAINSET_FILENAME = "cancer-training.txt";
